@@ -1,7 +1,5 @@
 # 🚀 Cursor Free Trial Reset Tool
 
-**Windows**
-
 Open Powershell run as adminstrator this command
 
 ### 🚀 One-Click Solution
