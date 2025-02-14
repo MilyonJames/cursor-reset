@@ -23,7 +23,7 @@ curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/
 
 ```powershell
 irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://raw.githubusercontent.com/beekorn/cursor-reset/refs/heads/master/scripts/run/cursor_script.ps1 | iex
 
-irm https://raw.githubusercontent.com/beekorn/cursor-reset/main/beekorn/cursor_script.ps1 | iex
 ```
 
