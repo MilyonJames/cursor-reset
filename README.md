@@ -7,6 +7,12 @@ Open Powershell run as adminstrator this command
 <details open>
 <summary><b>Global Users</b></summary>
 
+**Windows**
+
+```powershell
+irm https://raw.githubusercontent.com/beekorn/cursor-reset/refs/heads/master/cursor_script.ps1 | iex
+```
+
 **macOS**
 
 ```bash
@@ -19,11 +25,5 @@ curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/
 curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash 
 ```
 
-**Windows**
 
-```powershell
-irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
-irm https://raw.githubusercontent.com/beekorn/cursor-reset/refs/heads/master/scripts/run/cursor_script.ps1 | iex
-
-```
 
