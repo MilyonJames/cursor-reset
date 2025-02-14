@@ -4,9 +4,6 @@ Open Powershell run as adminstrator this command
 
 ### 🚀 One-Click Solution
 
-<details open>
-<summary><b>Global Users</b></summary>
-
 **Windows**
 
 ```powershell
