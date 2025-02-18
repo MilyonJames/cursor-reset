@@ -1,6 +1,6 @@
 # 🚀 Cursor Free Trial Reset Tool
 
-Open Powershell run as adminstrator this command
+Open Powershell run as adminstrator this command. In cursor settings, logout and then login again for reset changes to take effect.
 
 ### 🚀 One-Click Solution
 
